@@ -5,7 +5,6 @@ import (
 	"github.com/graphql-go/graphql"
 	"github.com/mongodb/mongo-go-driver/bson"
 
-	"app/data"
 	types "app/types"
 )
 
