@@ -1,2 +1,6 @@
-# go-web_app-react
-Simple web app with React , Graphql and Go
+# go-todo-app-react
+Todo app in Golang, MongoDB, and React
+
+
+
+
